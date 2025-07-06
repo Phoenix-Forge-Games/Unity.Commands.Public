@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace PhoenixForgeGames.Commands.Public.Scripts.ScriptableObjects.Interfaces
+namespace PhoenixForgeGames.Commands.Public.Commands.Interfaces
 {
     public interface IForgeCommand
     {

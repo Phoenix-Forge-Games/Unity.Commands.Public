@@ -1,7 +1,6 @@
-﻿using PhoenixForgeGames.Commands.Public.Scripts.ScriptableObjects;
-using UnityEngine;
+﻿using UnityEngine;
 
-namespace PhoenixForgeGames.Core.CommandSystem.BasicCommands
+namespace PhoenixForgeGames.Commands.Public.Commands
 {
     [CreateAssetMenu(fileName = "Command - Toggle Light - ", menuName = "Phoenix Forge Games/Commands/Public/Toggle Light", order = 0)]
     public class ForgeCommandToggleLight : ForgeCommand

@@ -117,3 +117,5 @@ I've included a few example events, including one that shows you how to execute 
 Check the demo scene.
 
 The ForgeCommandComponentBehavior is pretty self-explanatory. You add any commands that inherit ForgeCommand to the list, and it will execute them during the lifecycle event. Again, check demo scene
+
+The Demo Scene uses Text Mesh Pro, and will need to be 

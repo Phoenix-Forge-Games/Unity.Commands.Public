@@ -1,9 +1,8 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
-using PhoenixForgeGames.Commands.Public.Scripts.ScriptableObjects;
 using UnityEngine;
 
-namespace PhoenixForgeGames.Core.CommandSystem.BasicCommands
+namespace PhoenixForgeGames.Commands.Public.Commands
 {
     [CreateAssetMenu(fileName = "Command - Execute After Seconds - ", menuName = "Phoenix Forge Games/Commands/Public/Execute After Seconds", order = 0)]
     public class ForgeCommandExecuteCommandAfterSeconds : ForgeCommand

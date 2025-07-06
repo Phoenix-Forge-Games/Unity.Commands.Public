@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections;
 using System.Collections.Generic;
-using PhoenixForgeGames.Commands.Public.Scripts.ScriptableObjects;
+using PhoenixForgeGames.Commands.Public.Commands;
 using UnityEngine;
 
 namespace PhoenixForgeGames.Commands.Public.Behaviors

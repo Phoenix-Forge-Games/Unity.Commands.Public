@@ -1,8 +1,8 @@
 ﻿using PhoenixForgeGames.Commands.Public.Behaviors;
-using PhoenixForgeGames.Commands.Public.Scripts.ScriptableObjects.Interfaces;
+using PhoenixForgeGames.Commands.Public.Commands.Interfaces;
 using UnityEngine;
 
-namespace PhoenixForgeGames.Commands.Public.Scripts.ScriptableObjects
+namespace PhoenixForgeGames.Commands.Public.Commands
 {
     public class ForgeCommand : ScriptableObject, IForgeCommand
     {
