@@ -1,0 +1,8 @@
+{
+	"name" : "com.phoenixforgegames.commands.public",
+	"version" : "1.0.0",
+	"description" : "A simple command system",
+	"displayName" : "Phoenix Forge Games - Commands - Public",
+	"unity" : "6000.0",
+	"author" : "Phoenix Forge Games"
+}
