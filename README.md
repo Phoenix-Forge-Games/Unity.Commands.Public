@@ -118,4 +118,4 @@ Check the demo scene.
 
 The ForgeCommandComponentBehavior is pretty self-explanatory. You add any commands that inherit ForgeCommand to the list, and it will execute them during the lifecycle event. Again, check demo scene
 
-The Demo Scene uses Text Mesh Pro, and will need to be 
+The Demo Scene uses Text Mesh Pro, and the essentials will need to be added
